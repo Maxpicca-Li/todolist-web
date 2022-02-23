@@ -63,3 +63,26 @@
 3. 项目最开始开发的时候没有考虑到shiro安全架构，所以用户密码、用户id没有进行加密操作（深知这对用户非常不负责任，是非常不对的！！！但项目起步未想到这一步，为了赶进度也没有再重构，呜呜呜~ T_T），用户信息并未用后端token保存到session会话中，只进行了前端token保存（localStorage），很容易导致信息泄露
 4. 数据校验也只是用的前端的validator校验，从发起请求到后端输入数据库这一路，都没有添加校验，这样搞容易翻车
 5. 项目未进行docker部署，尚未绑定域名并在云服务器上部署（docker尝试过，没有成功）
+
+## 四、参考资料
+
+[MarkerHub/vueblog: 一个前后端分离的简单博客案例，适合刚入门vue，学前后端分离的童鞋！ (github.com)](https://github.com/MarkerHub/vueblog)
+
+[Spring5最新完整教程IDEA版通俗易懂](https://www.bilibili.com/video/BV1WE411d7Dv))
+
+[SpringMVC最新教程IDEA版通俗易懂](https://www.bilibili.com/video/BV1aE41167Tu)
+
+[SpringBoot开发简单的网站](https://www.bilibili.com/video/BV19E411v7Ty)
+
+[SSM框架最新整合教学IDEA版](https://www.bilibili.com/video/BV1RE41127rv)
+
+[SpringBoot最新教程IDEA版通俗易懂](https://www.bilibili.com/video/BV1PE411i7CV)
+
+[Mybatis最新完整教程IDEA版通俗易懂](https://www.bilibili.com/video/BV1NE411Q7Nx)
+
+[SpringBoot+Vue 项目](https://www.bilibili.com/video/BV1q5411s7wH?p=4&spm_id_from=pageDriver)
+
+[LiujiBoy Vue前端开发培训（2021）](https://www.bilibili.com/video/BV12o4y1d7M5)
+
+[SpringBoot 博客学习](https://www.cnblogs.com/ityouknow/p/5662753.html)
+
