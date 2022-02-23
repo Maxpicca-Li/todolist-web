@@ -1,0 +1,50 @@
+# DataSource Config
+# debug: true
+spring:
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    # 服务名称代替ip地址
+    # TODO 服务器部署
+    # url: jdbc:mysql://localhost:3306/todolist?useUnicode=true&useSSL=false&characterEncoding=utf8&serverTimezone=UTC
+    # url: jdbc:mysql://182.92.198.13:3306/todolist?useUnicode=true&useSSL=false&characterEncoding=utf8&serverTimezone=UTC
+    url: jdbc:mysql://mysql:3306/todolist?useUnicode=true&useSSL=false&characterEncoding=utf8&serverTimezone=UTC
+    username: root
+    password: 123456
+  devtools:
+    restart:
+      enabled: true  #设置开启热部署
+    freemarker:
+      cache: false    #页面不加载缓存，修改即时生效
+  mail:
+    #邮箱服务器地址
+    host: smtp.qq.com
+    username: 1978451498@qq.com
+    password: fnyqvjgygaqodbag
+    default-encoding: UTF-8
+
+
+mybatis-plus:
+  #  TODO 疑惑点 myabtis plus的mapper的xml文件的扫描路径
+  mapper-locations: classpath*:/mapper/**Mapper.xml
+
+#shiro-redis:
+#  enabled: true
+#  redis-manager:
+#     # host: 127.0.0.1:6379
+#     host: redis:6379
+
+
+jwt:
+  # 加密秘钥
+  secret: f4e2e52034348f86b67cde581c0f9eb5
+  # token有效时长，7天，单位秒
+  expire: 604800
+  header: token
+
+#server:
+#  port: 9000
+
+mail:
+  #以谁来发送邮件
+  fromMail:
+    addr: 1978451498@qq.com

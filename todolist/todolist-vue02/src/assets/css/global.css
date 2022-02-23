@@ -1,0 +1,7 @@
+/*全局样式*/
+Html,body,#app{
+    height: 100%;
+    margin: 0 auto;
+    padding: 0;
+    width: 960px;
+}

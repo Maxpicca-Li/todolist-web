@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2c4f7526-ee82-4ff6-aacd-e765e27ef5d9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/todolist-vue02/src/assets/DefaultHead.jfif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/todolist-vue02/src/assets/css/global.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/todolist-vue02/src/components/NameComp.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/todolist-vue02/src/components/NavMenu.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/todolist-vue02/src/components/Password.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/todolist-vue02/src/components/RefreshBack.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/todolist-vue02/src/components/RegisterComp.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/todolist-vue02/src/components/RegisterComp2.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/todolist-vue02/src/components/TodoComp.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/todolist-vue02/src/components/TodoComp02.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/todolist-vue02/src/components/temp/Books.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/todolist-vue02/src/components/temp/FormComp.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/todolist-vue02/src/components/temp/LibraryIndex.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/todolist-vue02/src/components/temp/SideMenu.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/todolist-vue02/src/components/temp/Temp.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/todolist-vue02/src/components/temp/TempIndex.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/todolist-vue02/src/components/util/Validate.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/todolist-vue02/src/views/Login.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/todolist-vue02/src/views/MyMain.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/todolist-vue02/src/views/NameEdit.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/todolist-vue02/src/views/Register.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/todolist-vue02/src/views/Todo.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/todolist-vue02/src/views/TodoEdit.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/todolist-vue02/src/views/pwdEdit.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/todolist-vue02/src/vue.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/todolist-vue02/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/todolist-vue02/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/todolist-vue02/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/todolist-vue02/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/todolist-vue02/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/todolist-vue02/src/App.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/todolist-vue02/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/todolist-vue02/src/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/todolist-vue02/src/router/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/todolist-vue02/src/router/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/todolist-vue02/src/store/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/todolist-vue02/src/store/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/todolist-vue02/src/views/About.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/todolist-vue02/src/views/Home.vue" beforeDir="false" afterPath="$PROJECT_DIR$/todolist-vue02/src/views/Home.vue" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/todolist-vue02" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="E:\JetBrains\IntelliJ IDEA 2020\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1utOuWd8KcKVsmpdT3BZXL3c9oq" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2c4f7526-ee82-4ff6-aacd-e765e27ef5d9" name="Default Changelist" comment="" />
+      <created>1625481644762</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1625481644762</updated>
+      <workItem from="1625481646643" duration="762000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
